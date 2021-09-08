@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284468609440",
+    "project_id": "travelapp-5b7b5",
+    "storage_bucket": "travelapp-5b7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284468609440:android:df9d6555b6155eedc264c5",
+        "android_client_info": {
+          "package_name": "com.ishaan.fluttertravelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284468609440-2ljqg798l50oaagovstj6s9mfcrmapfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhnCJtCjjzDFiFgE2ezCxT21oKJLszzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284468609440-2ljqg798l50oaagovstj6s9mfcrmapfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
